@@ -12,8 +12,8 @@ JavaScriptをもちいて、以下の体重と身長のBMI（体格指数）を�
 
 */
 
-const kg=68;
-const m =1.7;
+let kg=68;
+let m =1.7;
 let ans;
 
 ans=kg/(m*m);
